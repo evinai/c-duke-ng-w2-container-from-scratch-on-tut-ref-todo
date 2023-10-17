@@ -1,3 +1,6 @@
+# REFERENCE-W2-CONTAINERS -DUKE -NOAH -CONTAINER FROM SCRATCH (GITHUB)
+### TODO 10/23
+
 # container-from-scratch-python
 This is building a container from scratch
 
